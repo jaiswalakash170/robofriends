@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import reportWebVitals from './reportWebVitals';
 import Card from './card';
+import {robots} from './robots.js';
 import 'tachyons';
 
 ReactDOM.render(
